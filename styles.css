@@ -1,0 +1,28 @@
+*{
+    background-color: rgb(223, 133, 91);
+}
+
+.header{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header.top{
+    font-family: 'Brush Script MT', cursive;;
+}
+
+
+
+.intro{
+    text-align: center;
+}
+
+.image{
+    height: auto;
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
